@@ -46,6 +46,7 @@ const App = () => {
                 warnWhenUnsavedChanges: true,
                 liveMode: "auto",
                 useNewQueryKeys: true,
+                projectId: "c2oC95-xWYrNm-l5DLAY"
               }}
             >
               <Routes>
